@@ -1,0 +1,20 @@
+Status: submit two models lol2_2
+Model:
+LogisticRegression(C=5, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=123, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+
+Features:
+Features_cat_time: is_morning is_day is_evning is_nignt smooth1_hours_0 smooth1_hours_1 smooth1_hours_2 smooth1_hours_3 smooth1_hours_4 smooth1_hours_5 smooth1_hours_6 smooth1_hours_7 smooth1_hours_8 smooth1_hours_9 smooth1_hours_10 smooth1_hours_11 smooth1_hours_12 smooth1_hours_13 smooth1_hours_14 smooth1_hours_15 smooth1_hours_16 smooth1_hours_17 smooth1_hours_18 smooth1_hours_19 smooth1_hours_20 smooth1_hours_21 smooth1_hours_22 smooth1_hours_23 day_0 day_1 day_2 day_3 day_4 day_5 day_6 is_day_off
+Features_count_time: month trand_10000_100_1 duration
+vecorizer Train+Test: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=8500, min_df=1,
+        ngram_range=(1, 1), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='[^#]+', tokenizer=None, use_idf=True,
+        vocabulary=None)
+transformer X_cat_time: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler for count: StandardScaler(copy=True, with_mean=True, with_std=True)
+
