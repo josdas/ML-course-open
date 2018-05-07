@@ -1,0 +1,1795 @@
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.7699844   1.70959776  1.60784911  1.52680612]
+
+Model:
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.53591278  1.46509253  1.43156056  1.40159142]
+
+Model:
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5361385   1.46530091  1.43160753  1.40174827]
+
+Model:
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.53588152  1.46521554  1.43152417  1.40175183]
+
+Model:
+Ridge(alpha=1.0, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.50680543  1.43182529  1.40084979  1.37273991]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.50689306  1.43183431  1.40083074  1.37281596]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=None, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.55931232  1.49186617  1.45569972  1.42400854]
+
+Model:
+Ridge(alpha=1.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5784494   1.51263007  1.47478067  1.44113362]
+
+Model:
+Ridge(alpha=2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.4878629   1.40801247  1.37428254  1.34914272]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.49208645  1.40958699  1.37389216  1.34967665]
+
+Model:
+Ridge(alpha=0.05, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.48966194  1.4121152   1.37989137  1.35343448]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.49489676  1.41818645  1.38661306  1.35986962]
+
+Model:
+Ridge(alpha=0.3, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.4878629   1.40801247  1.37428254  1.34914272]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: submit submit_1
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.4878629   1.40801247  1.37428254  1.34914272]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.4878629   1.40801247  1.37428254  1.34914272]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.4878629   1.40801247  1.37428254  1.34914272]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.39945879  1.33942536  1.30760931  1.31054747]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.31800551  1.28615327  1.26072555  1.25655044]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.30714633  1.2766445   1.25114124  1.24325599]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.30120959  1.27276574  1.2490673   1.23625212]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.31080993  1.28394077  1.26190149  1.24731514]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.30228799  1.27427472  1.2510402   1.23759891]
+
+Model:
+Ridge(alpha=0.6, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.30120959  1.27276574  1.2490673   1.23625212]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.29908985  1.27836179  1.25194257  1.2394128 ]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.31967671  1.28474147  1.26388005  1.2528048 ]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.30120959  1.27276574  1.2490673   1.23625212]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.38197402  1.32233092  1.29506737  1.29257697]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.59076595  1.56743501  1.56017634  1.56288601  1.56133099]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5905908   1.5673798   1.56017847  1.56288607  1.56133079]
+
+Model:
+Ridge(alpha=5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.58906804  1.56708558  1.56019951  1.56288684  1.56132875]
+
+Model:
+Ridge(alpha=50, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.58041443  1.5651757   1.56037127  1.56289702  1.56130995]
+
+Model:
+Ridge(alpha=500, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5707583   1.56199064  1.56087754  1.56308074  1.56133861]
+
+Model:
+Ridge(alpha=5000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5697237   1.5620625   1.56179738  1.56478494  1.56276734]
+
+Model:
+Ridge(alpha=50090, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.56972594  1.56152689  1.56101935  1.56333904  1.56152284]
+
+Model:
+Ridge(alpha=10000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5693498   1.56146063  1.56125064  1.56383365  1.56193444]
+
+Model:
+Ridge(alpha=20000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57016832  1.56172709  1.56094325  1.56318243  1.56140139]
+
+Model:
+Ridge(alpha=7000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.5707583   1.56199064  1.56087754  1.56308074  1.56133861]
+
+Model:
+Ridge(alpha=5000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.56972594  1.56152689  1.56101935  1.56333904  1.56152284]
+
+Model:
+Ridge(alpha=10000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57031509  1.56246298  1.56488659  1.56333184  1.56007592]
+
+Model:
+Ridge(alpha=10000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+PolynomialFeatures: PolynomialFeatures(degree=2, include_bias=True, interaction_only=False)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [  1.68359282   1.58383228  19.96310498   2.105189     1.56484685]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+PolynomialFeatures: PolynomialFeatures(degree=2, include_bias=True, interaction_only=False)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.56812069  1.56054767  1.56200835  1.56364755  1.5611782 ]
+
+Model:
+Ridge(alpha=100000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+PolynomialFeatures: PolynomialFeatures(degree=2, include_bias=True, interaction_only=False)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57030203  1.56275821  1.56236229  1.56540406  1.5631355 ]
+
+Model:
+Ridge(alpha=100000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57030203  1.56275821  1.56236229  1.56540406  1.5631355 ]
+
+Model:
+Ridge(alpha=100000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57240327  1.56435798  1.56215844  1.56529257  1.56316126]
+
+Model:
+Ridge(alpha=100000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57239865  1.56433652  1.56211907  1.56477535  1.56258159]
+
+Model:
+Ridge(alpha=1000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57239863  1.56433592  1.56211875  1.56475683  1.56255885]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57239863  1.56433592  1.56211875  1.56475683  1.56255885]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.56865886  1.56087835  1.56099058  1.56199944  1.55913311]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 2)
+Score = [ 1.57196436  1.56427569  1.56356938  1.56706341  1.56447409]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+PolynomialFeatures: PolynomialFeatures(degree=2, include_bias=True, interaction_only=False)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.56728655  1.56406517  1.56733865  1.56424139]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+PolynomialFeatures: PolynomialFeatures(degree=2, include_bias=True, interaction_only=False)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.5592436   1.55981947  1.56420144  1.55950634]
+
+Model:
+AdaBoostRegressor(base_estimator=Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001),
+         learning_rate=1.0, loss='linear', n_estimators=10,
+         random_state=None)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.5585082   1.55987277  1.56404417  1.56004242]
+
+Model:
+AdaBoostRegressor(base_estimator=Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001),
+         learning_rate=1.0, loss='linear', n_estimators=15,
+         random_state=None)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.5584984   1.56048864  1.5643834   1.55978256]
+
+Model:
+AdaBoostRegressor(base_estimator=Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001),
+         learning_rate=1.0, loss='linear', n_estimators=50,
+         random_state=None)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.59193444  1.57863764  1.57243907  1.56075229]
+
+Model:
+RandomForestRegressor(bootstrap=True, criterion='mae', max_depth=2,
+           max_features='auto', max_leaf_nodes=None,
+           min_impurity_decrease=0.0, min_impurity_split=None,
+           min_samples_leaf=1, min_samples_split=2,
+           min_weight_fraction_leaf=0.0, n_estimators=2, n_jobs=1,
+           oob_score=False, random_state=123, verbose=0, warm_start=False)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.56302834  1.56159364  1.56670968  1.55842309]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 2.46894924  2.57649414  2.11833834  2.78717755]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.53902309  1.55127025  1.51441121  1.43434943]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.43833356  1.44976245  1.41157624  1.33815047]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.415364    1.42275411  1.37525398  1.31549606]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.415364    1.42275411  1.37525398  1.31549606]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.34677619  1.34896191  1.32042438  1.31014046]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.36137021  1.36828     1.33173155  1.34174215]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.41915895  1.41907897  1.39956069  1.37234703]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.77135185  1.87037876  1.76966495  1.81469483]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.53613841  1.57195672  1.47981035  1.40259472]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.46496491  1.5167033   1.44581055  1.31113938]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.33249496  1.42409509  1.36783617  1.34697506]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.32816812  1.37944385  1.30239464  1.28725735]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.37820084  1.36081589  1.32937032  1.26073469]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.37820084  1.33809462  1.2990802   1.26731767]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.43947832  1.43135159  1.32424551  1.30195083]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.4382951   1.4303638   1.32453754  1.30171749]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68340005  1.62603169  1.5460735   1.46405341]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.70587844  1.67752761  1.62883319  1.53257513]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68340005  1.62603169  1.5460735   1.46405341]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68286922  1.62187998  1.53776116  1.45770624]
+
+Model:
+Ridge(alpha=0.05, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.69474944  1.65272284  1.5931861   1.50185785]
+
+Model:
+Ridge(alpha=0.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68565458  1.6337978   1.56068239  1.47515473]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+Timevecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.87426523  1.90389192  1.86605148  1.83951343]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.8427233   1.8822365   1.80584525  1.7724156 ]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68178332  1.66036626  1.59140728  1.55503998]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.48503015  1.48985043  1.43054071  1.32581721]
+
+Model:
+Ridge(alpha=0.2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.48592447  1.4906507   1.4311703   1.327355  ]
+
+Model:
+Ridge(alpha=0.3, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.54147759  1.46791499  1.43327338  1.39794014]
+
+Model:
+Ridge(alpha=1.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65662863  1.57323571  1.51206837  1.48256651]
+
+Model:
+Ridge(alpha=1.5, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65662795  1.57323461  1.51206387  1.48256507]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65662791  1.57323452  1.51206356  1.48256496]
+
+Model:
+Ridge(alpha=0.001, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65765485  1.57440106  1.51479365  1.48361304]
+
+Model:
+Ridge(alpha=1000, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65662839  1.57323525  1.51206676  1.482566  ]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.55818156  1.51654364  1.50271511  1.45323977]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.59450102  1.54373957  1.51870109  1.46796072]
+
+Model:
+Ridge(alpha=2, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.69775534  1.62514134  1.58757202  1.52920471]
+
+Model:
+Ridge(alpha=10, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.79892146  1.7319063   1.69455247  1.62687406]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68124614  1.65651625  1.62821288  1.57028785]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68124614  1.65651625  1.62821288  1.57028785]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+trans: TfidfTransformer(norm='l2', smooth_idf=True, sublinear_tf=False, use_idf=True)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.68069602  1.65351916  1.62534929  1.56649393]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.85913273  1.79489071  1.77724506  1.71775135]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 2.31655864  2.16808746  2.14939243  2.31645266]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.84700338  1.80600378  1.71749259  1.62997616]
+
+Model:
+Ridge(alpha=100, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.84664043  1.80589914  1.71689127  1.62948126]
+
+Model:
+Ridge(alpha=1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.84663874  1.80589843  1.71685176  1.62947792]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.84663874  1.80589843  1.71685176  1.62947792]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.84946142  1.79240642  1.76826522  1.70500232]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.35155438  1.34630125  1.35136184  1.33873264]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler: StandardScaler(copy=True, with_mean=True, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65227776  1.68392911  1.6610029   1.61670962]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 2.09007693  1.82388388  1.82543722  1.79342044]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=True, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.65227776  1.68392911  1.6610029   1.61670962]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.43261397  1.38418898  1.35922615  1.33895524]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.46652961  1.40795414  1.37961756  1.35298448]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
+----------------------------------------------------------------------------------------------------
+Status: score my fold: (7, 3)
+Score = [ 1.46652961  1.4104558   1.37269532  1.35175383]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+

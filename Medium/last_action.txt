@@ -1,0 +1,17 @@
+Status: score my fold: (7, 3)
+Score = [ 1.46652961  1.4104558   1.37269532  1.35175383]
+
+Model:
+Ridge(alpha=0.1, copy_X=True, fit_intercept=True, max_iter=None,
+   normalize=False, random_state=123, solver='auto', tol=0.001)
+
+Features:
+vecorizer: TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=1.0, max_features=100000, min_df=1,
+        ngram_range=(1, 2), norm='l2', preprocessor=None, smooth_idf=True,
+        stop_words=None, strip_accents=None, sublinear_tf=False,
+        token_pattern='(?u)\\b\\w\\w+\\b', tokenizer=None, use_idf=True,
+        vocabulary=None)
+scaler2: StandardScaler(copy=True, with_mean=False, with_std=True)
+
